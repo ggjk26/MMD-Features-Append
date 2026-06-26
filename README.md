@@ -7,7 +7,11 @@ AI generated automatically name is "MMD Universal Helper" so you donot doubt abo
 
 ## Features
 1.3D to 2D rendering and styled render examples.
+
 2.One click to generate cloth materials
+
 3.Physics fix up and append functions
+
 4.One click to generate toon shadings
+
 5.PBR textures generation
