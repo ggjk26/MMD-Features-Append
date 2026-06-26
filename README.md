@@ -5,9 +5,13 @@ Now available for Blender 4.2 and later version. More description will added whi
 
 AI generated automatically name is "MMD Universal Helper" so you donot doubt about "MMD Features Append" of this title.
 
-##Features
+## Features
 1.3D to 2D rendering and styled render samples.
+
 2.One click to generate cloth materials
+
 3.Physics fix up and append functions
+
 4.One click to generate toon shadings
+
 5.PBR textures generation
